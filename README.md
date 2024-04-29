@@ -1,0 +1,1 @@
+Este repositório é dedicado a um projeto que realizei durante meus estudos de HTML5 e CSS3, onde o principal objetivo era desenvolver um site com a presença de um cordel criado pelo poeta brasileiro Milton Duarte. O site conta com imagens em efeito parallax, ou seja, imagens que estão fixas enquanto o usuário desce pelo conteúdo do site.
